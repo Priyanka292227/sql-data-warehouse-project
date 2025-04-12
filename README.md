@@ -8,7 +8,7 @@ Building a modern warehouse with SQL Server, including ETL prcesses, data modeli
 Welcome to the **Data Warehouse and Analytics Project** repository! 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data analytics.
 --
-## ðŸ—ï¸ Data Architecture
+##  Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 ![Data Architecture](docs/data_architecture.png)
